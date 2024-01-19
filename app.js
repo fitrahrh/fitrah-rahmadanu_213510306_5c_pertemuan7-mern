@@ -10,9 +10,8 @@ app.use(cors());
 
 app.use(express.json());
 
-const mongoUrl = "mongodb+srv://eliteisan:L1aOMM2WZsku9HwD@rhfitrah.govi2wk.mongodb.net/?retryWrites=true&w=majority";
-L1aOMM2WZsku9HwD
-const JWT_SECRET = "zokauk13ykw19897102()nerokaiz19wkozual19nekiknuam1o2kolzkaok1qwnasq23s[]]oiiyjaj22k";
+const mongoUrl = "mongodb+srv://rhfitrah:GSkuzs65fEgL3Is7@fitrahrh.sgrnkbz.mongodb.net/?retryWrites=true&w=majority";
+const JWT_SECRET = "hvdvay6ert72839289()aiyg8t87qt72393293883uhefiuh78ttq3ifi78272jdsds039[]]pou89ywe";
 
 mongoose.connect(mongoUrl).then(() => {
       console.log("Database Terhubung")
